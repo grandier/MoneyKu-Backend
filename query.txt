@@ -1,0 +1,6 @@
+CREATE TABLE ACCOUNT (id serial not null unique, name varchar(50) not null, email varchar(50) unique not null, password varchar(100) not null, balance integer not null);
+CREATE TABLE incomeCategory (id serial not null unique, category varchar(50) unique not null);
+CREATE TABLE expenseCategory (id serial not null unique, category varchar(50) unique not null);
+CREATE TABLE income (id serial not null unique, amount integer not null, transactiondate date not null, iduser integer not null, idwallet integer not null, incomeCategory int not null);
+CREATE TABLE expense (id serial not null unique, amount integer not null, transactiondate date not null, iduser integer not null, idwallet integer not null, expenseCategory int not null);
+CREATE TABLE wallet (id serial not null unique, name varchar(50) not null, balance integer not null, iduser integer not null);

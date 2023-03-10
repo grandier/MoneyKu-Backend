@@ -1,0 +1,15 @@
+- register
+- login
+- user bikin wallet 
+- user bikin income/expense category
+- user bikin income/expense (update ke wallet dan get wallet)
+- get transaction selama periode tertentu
+
+
+20/11 28/11		
+- belom ad category di income (udah)
+- gabungin transaction income sama expense (susah kalo digabung)
+- bcrypt (udah)
+- get wallet yang ada (udah)
+- get transaction berdasarkan wallet & date hasilnya category, harga, expense/income, nama wallet,  total expense & total income (udah) 
+- bikin wallet (udah)

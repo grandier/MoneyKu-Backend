@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1326c185-4a2a-435e-a6f7-d14850f32732/appservices/subscriptions/1326c185-4a2a-435e-a6f7-d14850f32732/resourceGroups/MoneyKu/providers/Microsoft.Web/sites/Moneyku",
+    "appService.deploySubpath": "."
+}
