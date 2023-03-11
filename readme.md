@@ -1,7 +1,7 @@
 # MoneyKu-Backend
 
 ## Author
-*[Kemas Rafly Omar Thoriq]*(https://github.com/grandier)
+[*Kemas Rafly Omar Thoriq*](https://github.com/grandier)
 
 Welcome to MoneyKu-Backend! This is the server-side application of a personal finance management system that helps users to keep track of their expenses and income. This application is built using Node.js, Express.js, and MongoDB.
 
@@ -59,10 +59,10 @@ The following are the API endpoints available in the application:
 This project is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 ## Acknowledgements
-[Node.js](https://nodejs.org/en/)
-[Express.js](https://expressjs.com/)
-[MongoDB](https://www.mongodb.com/)
-[JWT](https://jwt.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [JWT](https://jwt.io/)
 
 ### Feel free to customize this readme according to your project's specifications. Good luck with your project!
 
